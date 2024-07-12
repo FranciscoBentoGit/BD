@@ -1,0 +1,36 @@
+A-se o professor quer em cada linha quer o nome do local, nome do item,e a descricao da anomaliaCERTOOOOO
+ou quer as 3 separadas
+
+B...
+
+C- get all?CERTOOO
+
+E-o que o professor entende por area compreendidaQUADRADO
+
+Quando queremos adicionar novas coisas, o trigger tem que aumentar o id automaticamente?SIIIMMM
+Caso de remover e depois adicionar, tapa buraco ou seguinteSEGUINTEE
+
+F-?
+
+RI-4 deverá ser implementada?SUSPENDER VERIFICAÇOES DA RI
+
+
+TRASAÇAO COM RI SUSPENSAS
+USER
+REGULAR
+TRIGGER OU TABELA É DEFERRED INITIALLY
+FECHAR TRANSAÇAO
+
+
+
+
+4.1 do indice- era como pensavamos
+tipo:  tipo_anomalia
+olap: quer o total de anomalias(count)
+
+left outer join para carregar a de facts
+o caso da data nao precisa de left outer join
+
+connectar datagrip
+
+verfificaçoes: mistura com check + bind prepare
